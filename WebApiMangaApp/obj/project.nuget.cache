@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MrM6ElGoCue2eYR/YwRs/+d4TS4wgxA1qbz3gwpjs/GKRSOW+duK2/dDBQRXQFsYmoYgLOg6AJTqMaOmGuP0RA==",
+  "dgSpecHash": "y2HBK5N4w0WBdZby8bOS64PDuwIuw5zDt2pyuBpdcLXemgfLcbYl4A8aL6FjzxEPof14/ggoIQavHhaQk9f9EQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Arthur\\Desktop\\.Net\\WebApiMangaApp\\WebApiMangaApp\\WebApiMangaApp.csproj",
+  "projectFilePath": "C:\\Users\\Arthur\\Desktop\\WebApiMangaApp\\WebApiMangaApp\\WebApiMangaApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Arthur\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Arthur\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

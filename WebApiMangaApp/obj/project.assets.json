@@ -4741,11 +4741,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Arthur\\Desktop\\.Net\\WebApiMangaApp\\WebApiMangaApp\\WebApiMangaApp.csproj",
+      "projectUniqueName": "C:\\Users\\Arthur\\Desktop\\WebApiMangaApp\\WebApiMangaApp\\WebApiMangaApp.csproj",
       "projectName": "WebApiMangaApp",
-      "projectPath": "C:\\Users\\Arthur\\Desktop\\.Net\\WebApiMangaApp\\WebApiMangaApp\\WebApiMangaApp.csproj",
+      "projectPath": "C:\\Users\\Arthur\\Desktop\\WebApiMangaApp\\WebApiMangaApp\\WebApiMangaApp.csproj",
       "packagesPath": "C:\\Users\\Arthur\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Arthur\\Desktop\\.Net\\WebApiMangaApp\\WebApiMangaApp\\obj\\",
+      "outputPath": "C:\\Users\\Arthur\\Desktop\\WebApiMangaApp\\WebApiMangaApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Arthur\\AppData\\Roaming\\NuGet\\NuGet.Config",
