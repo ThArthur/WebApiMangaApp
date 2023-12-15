@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NExKLdFqa0IvLn6REDBaPWBAVYnLv3oWY3dXVdur7BM=",
+  "Source": "WebApiMangaApp",
+  "BasePath": "_content/WebApiMangaApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
